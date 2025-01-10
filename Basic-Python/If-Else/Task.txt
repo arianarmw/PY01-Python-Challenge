@@ -1,0 +1,40 @@
+1. Weird or Not Weird
+Diberikan sebuah bilangan bulat, n, lakukan tindakan kondisional berikut:
+
+- Jika n ganjil, cetak "Weird"
+- Jika n genap dan berada dalam rentang inklusif dari 2 hingga 5, cetak "Not Weird"
+- Jika n genap dan berada dalam rentang inklusif dari 6 hingga 20, cetak "Weird"
+- Jika n genap dan lebih besar dari 20, cetak "Not Weird"
+
+2. Odd or Even
+Diberikan sebuah bilangan bulat, n, lakukan tindakan berikut:
+- Jika n ganjil, cetak "Odd"
+- Jika n genap dan kurang dari 10, cetak "Small Even"
+- Jika n genap dan lebih besar atau sama dengan 10, cetak "Large Even"
+
+3. Divisibility Check
+Diberikan sebuah bilangan bulat, n, lakukan tindakan berikut:
+- Jika n habis dibagi 3, cetak "Divisible by 3"
+- Jika n habis dibagi 5, cetak "Divisible by 5"
+- Jika n habis dibagi keduanya, cetak "Divisible by 3 and 5"
+- Jika n tidak habis dibagi 3 atau 5, cetak "Not Divisible"
+
+4. Age Category
+Diberikan sebuah bilangan bulat, n, yang mewakili usia. Lakukan tindakan berikut:
+- Jika usia kurang dari 13, cetak "Child"
+- Jika usia antara 13 dan 19 (inklusif), cetak "Teenager"
+- Jika usia antara 20 dan 64 (inklusif), cetak "Adult"
+- Jika usia 65 atau lebih, cetak "Senior"
+
+5. Temperature Check
+Diberikan sebuah bilangan bulat, n, yang mewakili suhu. Lakukan tindakan berikut:
+- Jika suhu kurang dari 0, cetak "Freezing"
+- Jika suhu antara 0 dan 20 (inklusif), cetak "Cold"
+- Jika suhu antara 21 dan 35 (inklusif), cetak "Warm"
+- Jika suhu lebih besar dari 35, cetak "Hot"
+
+6. Grade Evaluation
+Diberikan sebuah bilangan bulat, n, yang mewakili nilai ujian. Lakukan tindakan berikut:
+- Jika nilai antara 0 dan 50 (iklusif), cetak "Fail"
+- Jika nilai antara 51 dan 75 (inklusif), cetak "Pass"
+- Jika nilai lebih dari 75, cetak "Excellent"
