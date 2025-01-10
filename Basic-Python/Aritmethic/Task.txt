@@ -1,0 +1,24 @@
+1. Basic Aritmethic
+Buatlah sebuah program yang membaca dua bilangan bulat dari input. Tambahkan kode untuk mencetak tiga baris dengan format berikut:
+- Baris pertama mencetak hasil penjumlahan kedua bilangan.
+- Baris kedua mencetak hasil pengurangan kedua bilangan (bilangan pertama - bilangan kedua).
+- Baris ketiga mencetak hasil pembagian bilangan pertama dengan bilangan kedua.
+- Baris keempat mencetak hasil perkalian bilangan pertama dan bilangan kedua.
+
+2. Rectangle Formula
+Buatlah sebuah program yang membaca panjang dan lebar sebuah persegi panjang dari input. Tambahkan kode untuk mencetak dua baris:
+- Baris pertama mencetak luas persegi panjang.
+- Baris kedua mencetak keliling persegi panjang.
+
+3. Buatlah sebuah program yang membaca dua bilangan bulat dari input. Tambahkan kode untuk mencetak tiga baris dengan format berikut:
+- Baris pertama mencetak hasil bilangan pertama dipangkatkan bilangan kedua.
+- Baris kedua mencetak hasil modulo (sisa pembagian) dari bilangan pertama oleh bilangan kedua.
+- Baris ketiga mencetak hasil pembagian bulat (floor division) bilangan pertama oleh bilangan kedua.
+
+4. Buatlah sebuah program yang membaca panjang sisi sebuah kubus dari input. Tambahkan kode untuk mencetak dua baris:
+- Baris pertama mencetak luas permukaan kubus.
+- Baris kedua mencetak volume kubus.
+
+5. Buatlah sebuah program yang membaca harga asli suatu barang dan persentase diskon dari input. Tambahkan kode untuk mencetak dua baris:
+- Baris pertama mencetak besar potongan harga (diskon).
+- Baris kedua mencetak harga akhir setelah diskon.
