@@ -1,0 +1,20 @@
+1. Cetak bilangan genap
+Buatlah program yang membaca bilangan bulat positif n dari input. Cetak semua bilangan genap dari 0 sampai n-1 (termasuk jika n-1 genap), satu bilangan per baris.
+
+2. Cetak bilangan ganjil
+Buatlah program yang membaca sebuah bilangan bulat positif, n, dari input. Cetak semua bilangan ganjil dari 1 hingga n (termasuk n jika ganjil), masing-masing pada baris baru.
+
+3. Jumlahkan bilangan ganjil
+Buatlah program yang membaca bilangan bulat positif n dari input. Hitung jumlah semua bilangan ganjil dari 1 sampai n (termasuk jika n ganjil), lalu cetak hasilnya.
+
+4. Faktorial
+Buatlah program yang membaca sebuah bilangan bulat positif, n, dari input. Hitung factorial dari n menggunakan loop.
+
+5. Jumlah kuadrat
+Buatlah program yang membaca sebuah bilangan bulat positif, n, dari input. Hitung dan cetak jumlah kuadrat dari semua bilangan dari 1 hingga n.
+
+6. Cetak pola segitiga
+Buatlah program yang membaca bilangan bulat positif n dari input. Cetak pola segitiga menggunakan angka.
+
+7. Deret Fibonacci
+Buatlah program yang membaca bilangan bulat positif n dari input. Cetak deret Fibonacci hingga elemen ke-n.
